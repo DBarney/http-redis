@@ -1,0 +1,6 @@
+[submodule "modules/redis"]
+	path = modules/redis
+	url = git@github.com:tadeuszwojcik/luvit-redis.git
+[submodule "modules/lever"]
+	path = modules/lever
+	url = https://github.com/DBarney/lever.git
